@@ -1,5 +1,19 @@
 #!/bin/bash
 
+# Assign the value "Fulanito de Copas" to the variable "name"
+name="BB"
 
-salutation="¡Hi!"
-echo $salutation
+# Print the value of the "name" variable (with quotes)
+echo $name in quotes
+
+# Print a message without a newline at the end
+echo -n imprimo sin nada solo echo
+echo A
+
+# Assign the value "b b" to the variable "name" without quotes
+# This will cause an *error* because the value contains spaces
+name=b b
+echo $name
+
+# Exit the script with the status code of the last command
+exit $?
