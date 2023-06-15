@@ -7,7 +7,7 @@ name="BB"
 echo $name in quotes
 
 # Print a message without a newline at the end
-echo -n imprimo sin nada solo echo
+echo -n print echo
 echo A
 
 # Assign the value "b b" to the variable "name" without quotes
@@ -15,5 +15,9 @@ echo A
 name=b b
 echo $name
 
+# command outputs in an expression
+echo "Current path: $(pwd)"
+Date=`date +%d/%m/%Y`
+echo "Date today is: $Date"
 # Exit the script with the status code of the last command
 exit $?
