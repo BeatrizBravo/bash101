@@ -17,3 +17,5 @@
 - [Introduction to conditionals](https://github.com/BeatrizBravo/bash101/blob/main/scripts/07conditions.sh)
 
 - [Conditional numbers](https://github.com/BeatrizBravo/bash101/blob/main/scripts/08MoreConditions.sh)
+
+- [Parameter Validation and File Analysis Script, File Existence and Properties Validator](https://github.com/BeatrizBravo/bash101/blob/main/scripts/09MoreConditions2.sh)
