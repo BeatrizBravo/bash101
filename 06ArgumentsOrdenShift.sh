@@ -1,5 +1,5 @@
 #!/bin/bash
-#Ejemplo 10: Paso de argumentos. Orden shift
+# Orden shift
 
 n=1
 echo "Nombre del script: $0"
