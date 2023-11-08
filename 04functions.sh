@@ -17,7 +17,7 @@ add_two_num "$@"  # en la consola
 #"$@" is used to pass all arguments passed to the script to the add_two_num function from the CONSOLE
 
 #_________________________
-#To run the function. move to the folder in the console and type:bash functions.sh argumento1 argumento2
+#To run the function. move to the folder in the console and type:bash 04functions.sh argumento1 argumento2
 #________________________
 
 # Special Variables:
